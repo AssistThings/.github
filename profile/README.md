@@ -14,7 +14,7 @@ hardware acessível, processamento local (on-device) e respeito à privacidade.
 
 ## Projetos
 
-### Smart Glasses: óculos inteligentes para pessoas cegas
+### Smart Glasses: óculos inteligentes para pessoas com deficiência visual
 
 Óculos com câmera USB ligados ao celular. A visão computacional roda no próprio
 aparelho, sem enviar nada para a nuvem, e o resultado é falado em voz alta.
@@ -49,7 +49,7 @@ Bengala com sensores ultrassônicos que detectam obstáculos e avisam por vibra�
 ## Princípios
 
 - **Aberto:** código, hardware e documentação livres para reproduzir e adaptar.
-- **Privado:** o processamento acontece no aparelho. Imagens e rostos não vão para a nuvem.
+- **Privacidade:** o processamento acontece no aparelho. Imagens e rostos não vão para a nuvem.
 - **Acessível:** usa componentes baratos e fáceis de encontrar (ESP32, câmeras UVC, impressão 3D).
 - **Centrado nas pessoas:** as funções vêm de necessidades reais de quem usa.
 
