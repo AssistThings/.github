@@ -55,8 +55,7 @@ Bengala com sensores ultrassônicos que detectam obstáculos e avisam por vibra�
 
 ## Instituições parceiras
 
-- UFSCar, DEPS, Campus Sorocaba (peças de impressão 3D: Prof. Cleyton Fernandes Ferrarini)
-- *(adicione aqui as demais universidades e laboratórios)*
+Em breve divulgaremos as universidades parceiras.
 
 ## Como contribuir
 
